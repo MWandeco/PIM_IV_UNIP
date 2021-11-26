@@ -1,0 +1,28 @@
+{
+nome : Jamilton Damasceno
+email : jamilton@gmail.com
+CPF : 543320007/27
+telefone : (13)96653420
+rua : Av. Paulista
+numero : 200
+estado : SP
+bairro : Concei‡ao
+CEP : 110200-200
+dataNascimento : 12/6/1990
+dataDiagnostico : 21/9/2021
+comorbidades : 
+}
+{
+nome : Maira Lopes
+email : maira@gmail.com
+CPF : 33257676/30
+telefone : (13)98234434
+rua : Av.Cruzeiro do Sul
+numero : 200
+estado : SP
+bairro : Cruzeiro do sul?
+CEP : 110100-380
+dataNascimento : 12/2/1998
+dataDiagnostico : 21/9/2021
+comorbidades : Obesidade
+}

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1637766433 source:c:\users\wanderzin\desktop\pim_iv_wandeco\pim_iv_m_wander\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<stdbool.h>
+
+1636307446 source:c:\users\wanderzin\desktop\pim_iv_wandeco\pim_iv_m_wander\untitled1.c
+
